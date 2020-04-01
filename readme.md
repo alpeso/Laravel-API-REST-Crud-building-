@@ -1,11 +1,11 @@
-##1)Lo primero que debemos hacer para correr nuestra API REST es configurar nuestro .env con los datos de conexión de nuestra base de datos
+1)Lo primero que debemos hacer para correr nuestra API REST es configurar nuestro .env con los datos de conexión de nuestra base de datos
 
 ![](docs/env.PNG)
 
-##2)Luego tenemos que ejecutar las migraciones de nuestro proyecto con el comando "php artisan migrate"
+2)Luego tenemos que ejecutar las migraciones de nuestro proyecto con el comando "php artisan migrate"
 
 
-##3)Iniciamos nuestro servidor con el comando "php artisan serve"
+3)Iniciamos nuestro servidor con el comando "php artisan serve"
 
 
 ##Rutas disponibles en nuestra API REST
